@@ -1,0 +1,9 @@
+ingredientes = 3;
+
+octano = [120, 100, 74, 89]
+presion = [60, 2.5, 4.0, 11]
+volatilidad = [105, 3, 12, 17]
+
+costo_galon = [0.58, 1.55, 0.85]
+
+galones_gasolina = 12000
